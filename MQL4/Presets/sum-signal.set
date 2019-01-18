@@ -1,0 +1,15 @@
+LINE0=0
+info0=0
+magic=23425
+filename=EURUSD_1_1_export1.csv;EURUSD_1_1_export2.csv;EURUSD_1_1_export3.csv;EURUSD_1_1_export4.csv
+LINE5=0
+info5=0
+MinAllow=999
+MinRefile=1
+Sl=0
+Tp=0
+SumSignals=true
+InverseTrade=false
+PercentForOpenSum=0.0
+lot=1
+LINE6=0

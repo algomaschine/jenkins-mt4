@@ -1,0 +1,156 @@
+0	14:23:14.977	Compiling 'GetHistFiles'
+0	14:23:23.415	Expert AltrevaHistory AUDJPY,M1: loaded successfully
+0	14:23:23.415	AltrevaHistory AUDJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.493	Expert AltrevaHistory EURUSD,M1: loaded successfully
+0	14:23:23.493	AltrevaHistory EURUSD,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.618	Expert AltrevaHistory EURNZD,M1: loaded successfully
+0	14:23:23.618	AltrevaHistory EURNZD,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.727	Expert AltrevaHistory EURJPY,Daily: loaded successfully
+0	14:23:23.727	AltrevaHistory EURJPY,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.790	Expert AltrevaHistory EURGBP,Daily: loaded successfully
+0	14:23:23.790	AltrevaHistory EURGBP,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.852	Expert AltrevaHistory EURCHF,Daily: loaded successfully
+0	14:23:23.852	AltrevaHistory EURCHF,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:23.930	Expert AltrevaHistory EURCAD,Daily: loaded successfully
+0	14:23:23.930	AltrevaHistory EURCAD,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:24.008	Expert AltrevaHistory EURAUD,Daily: loaded successfully
+0	14:23:24.008	AltrevaHistory EURAUD,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:23:26.993	AltrevaHistory EURAUD,Daily: initialized
+0	14:23:27.008	AltrevaHistory AUDJPY,M1: initialized
+0	14:23:27.008	AltrevaHistory EURUSD,M1: initialized
+0	14:23:27.008	AltrevaHistory EURNZD,M1: initialized
+0	14:23:27.040	AltrevaHistory EURCAD,Daily: initialized
+0	14:23:27.071	AltrevaHistory EURJPY,Daily: initialized
+0	14:23:27.087	AltrevaHistory EURCHF,Daily: initialized
+0	14:23:27.118	AltrevaHistory EURGBP,Daily: initialized
+0	14:23:30.439	AltrevaHistory AUDJPY,M1: uninit reason 9
+0	14:23:30.439	AltrevaHistory EURUSD,M1: uninit reason 9
+0	14:23:30.439	AltrevaHistory EURNZD,M1: uninit reason 9
+0	14:23:30.439	AltrevaHistory EURJPY,Daily: uninit reason 9
+0	14:23:30.439	AltrevaHistory EURGBP,Daily: uninit reason 9
+0	14:23:30.439	AltrevaHistory EURCHF,Daily: uninit reason 9
+0	14:23:30.454	AltrevaHistory EURCAD,Daily: uninit reason 9
+0	14:23:30.454	AltrevaHistory EURAUD,Daily: uninit reason 9
+0	14:23:30.611	Expert AltrevaHistory AUDJPY,M1: removed
+0	14:23:30.626	Expert AltrevaHistory EURUSD,M1: removed
+0	14:23:30.673	Expert AltrevaHistory EURNZD,M1: removed
+0	14:23:30.689	Expert AltrevaHistory EURJPY,Daily: removed
+0	14:23:30.704	Expert AltrevaHistory EURGBP,Daily: removed
+0	14:23:30.720	Expert AltrevaHistory EURCHF,Daily: removed
+0	14:23:30.736	Expert AltrevaHistory EURCAD,Daily: removed
+0	14:23:30.751	Expert AltrevaHistory EURAUD,Daily: removed
+0	14:23:37.822	Compiling 'MACD Sample'
+0	14:23:37.822	Compiling 'Moving Average'
+0	14:23:44.448	Compiling 'Accelerator'
+0	14:23:44.448	Compiling 'Accumulation'
+0	14:23:44.448	Compiling 'Alligator'
+0	14:23:44.448	Compiling 'ATR'
+0	14:23:44.448	Compiling 'Awesome'
+0	14:23:44.448	Compiling 'Bands'
+0	14:23:44.448	Compiling 'Bears'
+0	14:23:44.448	Compiling 'Bulls'
+0	14:23:44.448	Compiling 'CCI'
+0	14:23:44.448	Compiling 'Custom Moving Averages'
+0	14:23:44.448	Compiling 'Heiken Ashi'
+0	14:23:44.448	Compiling 'Ichimoku'
+0	14:23:44.448	Compiling 'iExposure'
+0	14:23:44.448	Compiling 'MACD'
+0	14:23:44.448	Compiling 'Momentum'
+0	14:23:44.448	Compiling 'OsMA'
+0	14:23:44.448	Compiling 'Parabolic'
+0	14:23:44.448	Compiling 'RSI'
+0	14:23:44.448	Compiling 'Stochastic'
+0	14:23:44.448	Compiling 'ZigZag'
+0	14:23:44.448	Compiling 'SimplePanel'
+0	14:23:56.213	Compiling 'PeriodConverter'
+0	14:23:56.213	Compiling 'DLLSampleTester'
+0	14:23:56.213	Compiling 'PipeClient'
+0	14:23:56.213	Compiling 'PipeClientPure'
+0	14:24:02.182	Compiling 'stdlib'
+0	14:24:09.292	Expert AltrevaHistory AUDJPY,M1: loaded successfully
+0	14:24:09.292	AltrevaHistory AUDJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.354	Expert AltrevaHistory EURUSD,M1: loaded successfully
+0	14:24:09.354	AltrevaHistory EURUSD,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.417	Expert AltrevaHistory EURNZD,M1: loaded successfully
+0	14:24:09.417	AltrevaHistory EURNZD,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.495	Expert AltrevaHistory EURJPY,Daily: loaded successfully
+0	14:24:09.495	AltrevaHistory EURJPY,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.604	Expert AltrevaHistory EURGBP,Daily: loaded successfully
+0	14:24:09.604	AltrevaHistory EURGBP,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.698	Expert AltrevaHistory EURCHF,Daily: loaded successfully
+0	14:24:09.698	AltrevaHistory EURCHF,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.761	Expert AltrevaHistory EURCAD,Daily: loaded successfully
+0	14:24:09.761	AltrevaHistory EURCAD,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:09.823	Expert AltrevaHistory EURAUD,Daily: loaded successfully
+0	14:24:09.823	AltrevaHistory EURAUD,Daily inputs: LINE0=0; info0=0; WTF=1; HowManyBars=3000; filename=1min3k; LINE1=0; 
+0	14:24:12.229	AltrevaHistory AUDJPY,M1: initialized
+0	14:24:12.245	AltrevaHistory EURGBP,Daily: initialized
+0	14:24:12.261	AltrevaHistory EURNZD,M1: initialized
+0	14:24:12.276	AltrevaHistory EURAUD,Daily: initialized
+0	14:24:12.276	AltrevaHistory EURUSD,M1: initialized
+0	14:24:12.276	AltrevaHistory EURJPY,Daily: initialized
+0	14:24:12.292	AltrevaHistory EURCAD,Daily: initialized
+0	14:24:12.307	AltrevaHistory EURCHF,Daily: initialized
+0	14:24:23.948	AltrevaHistory EURNZD,M1: uninit reason 4
+0	14:24:23.948	Expert AltrevaHistory EURNZD,M1: removed
+0	14:24:27.317	AltrevaHistory EURUSD,M1: uninit reason 4
+0	14:24:27.317	Expert AltrevaHistory EURUSD,M1: removed
+0	14:24:27.810	AltrevaHistory EURAUD,Daily: uninit reason 4
+0	14:24:27.825	Expert AltrevaHistory EURAUD,Daily: removed
+0	14:24:28.372	AltrevaHistory EURJPY,Daily: uninit reason 4
+0	14:24:28.388	Expert AltrevaHistory EURJPY,Daily: removed
+0	14:24:28.872	AltrevaHistory EURCAD,Daily: uninit reason 4
+0	14:24:28.888	Expert AltrevaHistory EURCAD,Daily: removed
+0	14:24:29.825	AltrevaHistory AUDJPY,M1: uninit reason 4
+0	14:24:29.825	Expert AltrevaHistory AUDJPY,M1: removed
+0	14:24:30.325	AltrevaHistory EURGBP,Daily: uninit reason 4
+0	14:24:30.325	Expert AltrevaHistory EURGBP,Daily: removed
+0	14:24:32.372	AltrevaHistory EURCHF,Daily: uninit reason 4
+0	14:24:32.388	Expert AltrevaHistory EURCHF,Daily: removed
+0	14:39:36.975	Expert last_200_bars EURJPY,M1: loaded successfully
+0	14:39:43.850	last_200_bars EURJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=200; filename=last_200_bars; LINE1=0; 
+0	14:39:43.897	last_200_bars EURJPY,M1: initialized
+0	14:39:46.179	Automated trading enabled
+0	14:40:00.413	Automated trading disabled
+0	14:40:01.069	Automated trading enabled
+0	14:46:32.159	last_200_bars EURJPY,M1: uninit reason 2
+0	14:46:32.159	Expert last_200_bars EURJPY,M1: removed
+0	14:46:32.190	Expert last_200_bars EURJPY,M1: loaded successfully
+0	14:46:32.252	last_200_bars EURJPY,M1: initialized
+0	14:49:05.567	last_200_bars EURJPY,M1: uninit reason 9
+0	14:49:05.645	Expert last_200_bars EURJPY,M1: removed
+0	14:49:41.380	Expert last_200_bars EURJPY,M1: loaded successfully
+0	14:49:41.380	last_200_bars EURJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=200; filename=last_200_bars; LINE1=0; 
+0	14:49:43.646	last_200_bars EURJPY,M1: initialized
+0	14:49:48.912	last_200_bars EURJPY,M1: uninit reason 9
+0	14:49:48.959	Expert last_200_bars EURJPY,M1: removed
+0	14:49:59.117	Compiling 'MACD Sample'
+0	14:49:59.117	Compiling 'Moving Average'
+0	14:50:05.992	Compiling 'Accelerator'
+0	14:50:05.992	Compiling 'Accumulation'
+0	14:50:05.992	Compiling 'Alligator'
+0	14:50:05.992	Compiling 'ATR'
+0	14:50:05.992	Compiling 'Awesome'
+0	14:50:05.992	Compiling 'Bands'
+0	14:50:05.992	Compiling 'Bears'
+0	14:50:05.992	Compiling 'Bulls'
+0	14:50:05.992	Compiling 'CCI'
+0	14:50:05.992	Compiling 'Custom Moving Averages'
+0	14:50:05.992	Compiling 'Heiken Ashi'
+0	14:50:05.992	Compiling 'Ichimoku'
+0	14:50:05.992	Compiling 'iExposure'
+0	14:50:05.992	Compiling 'MACD'
+0	14:50:05.992	Compiling 'Momentum'
+0	14:50:05.992	Compiling 'OsMA'
+0	14:50:05.992	Compiling 'Parabolic'
+0	14:50:05.992	Compiling 'RSI'
+0	14:50:05.992	Compiling 'Stochastic'
+0	14:50:05.992	Compiling 'ZigZag'
+0	14:50:05.992	Compiling 'SimplePanel'
+0	14:50:18.242	Compiling 'PeriodConverter'
+0	14:50:18.242	Compiling 'DLLSampleTester'
+0	14:50:18.242	Compiling 'PipeClient'
+0	14:50:18.242	Compiling 'PipeClientPure'
+0	14:50:25.477	Compiling 'stdlib'
+0	14:50:33.899	Expert last_200_bars EURJPY,M1: loaded successfully
+0	14:50:33.899	last_200_bars EURJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=200; filename=last_200_bars; LINE1=0; 

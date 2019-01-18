@@ -1,0 +1,10 @@
+0	15:08:42.243	Migration: history folder copied from 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader' to 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader'
+0	15:08:42.243	Migration: mailbox folder copied from 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader' to 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader'
+0	15:08:42.243	Migration: profiles folder copied from 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader' to 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader'
+0	15:08:42.243	Migration: templates folder copied from 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader' to 'C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader'
+0	15:08:42.587	ForexTime MT4 build 1170 started (ForexTime Ltd.)
+0	15:08:42.587	Windows Server 2016 Standard x64, IE 11, RDP, UAC, 32 x AMD EPYC 7401P 24-Core Processor , Memory: 96333 / 130959 Mb, Disk: 1619 / 1788 Gb, GMT+3
+0	15:08:42.587	Data Folder: C:\Users\Administrator\Desktop\Terminals\jenkins-metatrader
+0	15:08:45.853	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.3 (ping: 59.96 ms)
+0	15:08:46.353	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.3 (ping: 59.96 ms)
+0	15:08:46.743	'15224497': previous successful authorization performed from 95.216.32.144
