@@ -1,0 +1,38 @@
+1	04:02:05.131	'15224497': connect failed [No connection]
+0	04:02:27.943	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Asia.1 (ping: n/a)
+0	04:02:30.652	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Asia.1 (ping: n/a)
+0	04:02:31.621	'15224497': previous successful authorization performed from 95.216.32.144
+0	04:02:40.409	'15224497': auto connecting to a better access point Cent-Demo.Europe.1 (ping is 33.66 ms)
+0	04:02:40.925	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 33.66 ms)
+0	04:02:41.303	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 33.66 ms)
+0	04:02:41.662	'15224497': previous successful authorization performed from 95.216.32.144
+1	05:15:03.580	'15224497': connect failed [No connection]
+0	05:15:28.374	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.5 (ping: 51.42 ms)
+0	05:15:28.764	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.5 (ping: 51.42 ms)
+0	05:15:28.811	News: news base synchronization
+0	05:15:29.155	'15224497': previous successful authorization performed from 95.216.32.144
+0	05:15:38.990	'15224497': auto connecting to a better access point Cent-Demo.Europe.1 (ping is 35.69 ms)
+0	05:15:39.459	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 35.69 ms)
+0	05:15:39.787	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 35.69 ms)
+0	05:15:40.131	'15224497': previous successful authorization performed from 95.216.32.144
+1	06:57:54.636	'15224497': connect failed [No connection]
+0	06:58:33.380	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Asia.2 (ping: 391.01 ms)
+0	06:58:35.777	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Asia.2 (ping: 391.01 ms)
+0	06:58:36.637	'15224497': previous successful authorization performed from 95.216.32.144
+0	06:58:45.532	'15224497': auto connecting to a better access point Cent-Demo.Europe.1 (ping is 32.60 ms)
+0	06:58:45.970	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 32.60 ms)
+0	06:58:46.272	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 32.60 ms)
+0	06:58:46.601	'15224497': previous successful authorization performed from 95.216.32.144
+2	19:49:43.606	Expert last_200_bars EURJPY,M1: removed
+2	19:49:43.653	Expert last_200_bars EURJPY,M1: loaded successfully
+0	19:50:15.366	HistoryCenter: synchronize 'EURJPY5'
+0	19:50:15.600	HistoryCenter: 2048 bars imported in 'EURJPY5'
+1	23:08:02.876	'15224497': connect failed [No connection]
+0	23:08:24.529	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.5 (ping: 45.27 ms)
+0	23:08:24.857	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.5 (ping: 45.27 ms)
+0	23:08:24.920	News: news base synchronization
+0	23:08:25.216	'15224497': previous successful authorization performed from 95.216.32.144
+0	23:08:34.942	'15224497': auto connecting to a better access point Cent-Demo.Europe.1 (ping is 32.66 ms)
+0	23:08:35.475	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 32.66 ms)
+0	23:08:35.772	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.1 (ping: 32.66 ms)
+0	23:08:36.147	'15224497': previous successful authorization performed from 95.216.32.144

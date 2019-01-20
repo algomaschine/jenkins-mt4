@@ -154,3 +154,6 @@
 0	14:50:25.477	Compiling 'stdlib'
 0	14:50:33.899	Expert last_200_bars EURJPY,M1: loaded successfully
 0	14:50:33.899	last_200_bars EURJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=200; filename=last_200_bars; LINE1=0; 
+0	15:09:08.573	Expert last_200_bars EURJPY,M1: loaded successfully
+0	15:09:11.792	last_200_bars EURJPY,M1 inputs: LINE0=0; info0=0; WTF=1; HowManyBars=200; filename=last_200_bars; LINE1=0; 
+0	15:09:11.823	last_200_bars EURJPY,M1: initialized

@@ -1,0 +1,6 @@
+0	19:49:43.606	last_200_bars EURJPY,M1: uninit reason 2
+0	19:49:43.606	Expert last_200_bars EURJPY,M1: removed
+0	19:49:43.653	Expert last_200_bars EURJPY,M1: loaded successfully
+0	19:49:43.669	last_200_bars EURJPY,M1: initialized
+0	19:50:00.103	last_200_bars EURJPY,M1: uninit reason 3
+0	19:50:00.213	last_200_bars EURJPY,M5: initialized

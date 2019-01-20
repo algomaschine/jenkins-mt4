@@ -8,3 +8,4 @@
 0	15:08:45.853	'15224497': login on ForexTime-Cent-demo through Cent-Demo.Europe.3 (ping: 59.96 ms)
 0	15:08:46.353	'15224497': login datacenter on ForexTime-Cent-demo through Cent-Demo.Europe.3 (ping: 59.96 ms)
 0	15:08:46.743	'15224497': previous successful authorization performed from 95.216.32.144
+2	15:09:08.573	Expert last_200_bars EURJPY,M1: loaded successfully

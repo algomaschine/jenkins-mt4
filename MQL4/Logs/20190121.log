@@ -1,0 +1,159 @@
+0	01:16:08.027	last_200_bars EURJPY,M5: uninit reason 2
+0	01:16:08.027	Expert last_200_bars EURJPY,M5: removed
+0	01:16:08.059	Expert last_200_bars EURJPY,M5: loaded successfully
+0	01:16:08.105	last_200_bars EURJPY,M5: initialized
+0	01:16:47.698	last_200_bars EURJPY,M5: uninit reason 2
+0	01:16:47.713	Expert last_200_bars EURJPY,M5: removed
+0	01:16:47.729	Expert last_200_bars EURJPY,M5: loaded successfully
+0	01:16:47.760	last_200_bars EURJPY,M5: initialized
+0	01:16:54.979	last_200_bars EURJPY,M5: uninit reason 3
+0	01:16:55.166	last_200_bars EURJPY,M1: initialized
+0	01:26:24.472	last_200_bars EURJPY,M1: uninit reason 2
+0	01:26:24.487	Expert last_200_bars EURJPY,M1: removed
+0	01:26:24.519	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:26:24.550	last_200_bars EURJPY,M1: initialized
+0	01:29:22.634	last_200_bars EURJPY,M1: uninit reason 2
+0	01:29:22.634	Expert last_200_bars EURJPY,M1: removed
+0	01:29:22.665	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:29:22.712	last_200_bars EURJPY,M1: initialized
+0	01:31:57.121	last_200_bars EURJPY,M1: uninit reason 2
+0	01:31:57.121	Expert last_200_bars EURJPY,M1: removed
+0	01:31:57.152	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:31:57.183	last_200_bars EURJPY,M1: initialized
+0	01:32:48.356	last_200_bars EURJPY,M1: uninit reason 2
+0	01:32:48.371	Expert last_200_bars EURJPY,M1: removed
+0	01:32:48.387	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:32:48.434	last_200_bars EURJPY,M1: initialized
+0	01:33:19.621	last_200_bars EURJPY,M1: uninit reason 2
+0	01:33:19.636	Expert last_200_bars EURJPY,M1: removed
+0	01:33:19.668	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:33:19.699	last_200_bars EURJPY,M1: initialized
+0	01:33:25.839	last_200_bars EURJPY,M1: new bar
+0	01:33:31.309	last_200_bars EURJPY,M1: new bar
+0	01:33:36.778	last_200_bars EURJPY,M1: new bar
+0	01:33:42.247	last_200_bars EURJPY,M1: new bar
+0	01:33:47.730	last_200_bars EURJPY,M1: new bar
+0	01:33:53.199	last_200_bars EURJPY,M1: new bar
+0	01:33:58.669	last_200_bars EURJPY,M1: new bar
+0	01:34:04.137	last_200_bars EURJPY,M1: new bar
+0	01:34:09.622	last_200_bars EURJPY,M1: new bar
+0	01:34:15.293	last_200_bars EURJPY,M1: new bar
+0	01:34:16.293	last_200_bars EURJPY,M1: new bar
+0	01:34:16.293	last_200_bars EURJPY,M1: uninit reason 2
+0	01:34:16.293	Expert last_200_bars EURJPY,M1: removed
+0	01:34:16.324	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:34:16.356	last_200_bars EURJPY,M1: initialized
+0	01:34:25.107	last_200_bars EURJPY,M1: new bar
+0	01:34:30.560	last_200_bars EURJPY,M1: new bar
+0	01:34:36.013	last_200_bars EURJPY,M1: new bar
+0	01:34:41.466	last_200_bars EURJPY,M1: new bar
+0	01:34:42.888	last_200_bars EURJPY,M1: new bar
+0	01:34:42.888	last_200_bars EURJPY,M1: uninit reason 2
+0	01:34:42.888	Expert last_200_bars EURJPY,M1: removed
+0	01:34:42.904	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:34:42.951	last_200_bars EURJPY,M1: initialized
+0	01:34:50.060	last_200_bars EURJPY,M1: new bar
+0	01:34:55.513	last_200_bars EURJPY,M1: new bar
+0	01:35:00.929	last_200_bars EURJPY,M1: new bar
+0	01:35:23.379	last_200_bars EURJPY,M1: new bar
+0	01:35:28.546	last_200_bars EURJPY,M1: new bar
+0	01:35:33.757	last_200_bars EURJPY,M1: new bar
+0	01:35:38.917	last_200_bars EURJPY,M1: new bar
+0	01:35:47.560	last_200_bars EURJPY,M1: new bar
+0	01:35:53.014	last_200_bars EURJPY,M1: new bar
+0	01:35:58.486	last_200_bars EURJPY,M1: new bar
+0	01:36:03.954	last_200_bars EURJPY,M1: new bar
+0	01:36:09.423	last_200_bars EURJPY,M1: new bar
+0	01:36:14.892	last_200_bars EURJPY,M1: new bar
+0	01:36:20.361	last_200_bars EURJPY,M1: new bar
+0	01:36:25.743	last_200_bars EURJPY,M1: new bar
+0	01:36:31.155	last_200_bars EURJPY,M1: new bar
+0	01:36:36.610	last_200_bars EURJPY,M1: new bar
+0	01:36:42.053	last_200_bars EURJPY,M1: new bar
+0	01:36:47.501	last_200_bars EURJPY,M1: new bar
+0	01:36:52.946	last_200_bars EURJPY,M1: new bar
+0	01:36:58.230	last_200_bars EURJPY,M1: new bar
+0	01:37:03.476	last_200_bars EURJPY,M1: new bar
+0	01:37:08.739	last_200_bars EURJPY,M1: new bar
+0	01:37:14.110	last_200_bars EURJPY,M1: new bar
+0	01:37:19.389	last_200_bars EURJPY,M1: new bar
+0	01:37:24.598	last_200_bars EURJPY,M1: new bar
+0	01:37:29.995	last_200_bars EURJPY,M1: new bar
+0	01:37:35.416	last_200_bars EURJPY,M1: new bar
+0	01:37:40.828	last_200_bars EURJPY,M1: new bar
+0	01:37:46.292	last_200_bars EURJPY,M1: new bar
+0	01:37:51.761	last_200_bars EURJPY,M1: new bar
+0	01:37:57.180	last_200_bars EURJPY,M1: new bar
+0	01:38:02.522	last_200_bars EURJPY,M1: new bar
+0	01:38:07.741	last_200_bars EURJPY,M1: new bar
+0	01:38:13.073	last_200_bars EURJPY,M1: new bar
+0	01:38:18.207	last_200_bars EURJPY,M1: new bar
+0	01:38:23.415	last_200_bars EURJPY,M1: new bar
+0	01:38:28.464	last_200_bars EURJPY,M1: new bar
+0	01:38:33.620	last_200_bars EURJPY,M1: new bar
+0	01:38:38.840	last_200_bars EURJPY,M1: new bar
+0	01:38:44.218	last_200_bars EURJPY,M1: new bar
+0	01:38:49.605	last_200_bars EURJPY,M1: new bar
+0	01:38:55.075	last_200_bars EURJPY,M1: new bar
+0	01:39:00.514	last_200_bars EURJPY,M1: new bar
+0	01:39:05.878	last_200_bars EURJPY,M1: new bar
+0	01:39:11.231	last_200_bars EURJPY,M1: new bar
+0	01:39:16.653	last_200_bars EURJPY,M1: new bar
+0	01:39:25.481	last_200_bars EURJPY,M1: new bar
+0	01:39:30.952	last_200_bars EURJPY,M1: new bar
+0	01:39:36.403	last_200_bars EURJPY,M1: new bar
+0	01:39:41.855	last_200_bars EURJPY,M1: new bar
+0	01:39:47.245	last_200_bars EURJPY,M1: new bar
+0	01:39:52.694	last_200_bars EURJPY,M1: new bar
+0	01:39:58.086	last_200_bars EURJPY,M1: new bar
+0	01:40:03.488	last_200_bars EURJPY,M1: new bar
+0	01:40:08.933	last_200_bars EURJPY,M1: new bar
+0	01:40:14.334	last_200_bars EURJPY,M1: new bar
+0	01:40:19.792	last_200_bars EURJPY,M1: new bar
+0	01:40:25.229	last_200_bars EURJPY,M1: new bar
+0	01:40:30.462	last_200_bars EURJPY,M1: new bar
+0	01:40:35.737	last_200_bars EURJPY,M1: new bar
+0	01:40:40.875	last_200_bars EURJPY,M1: new bar
+0	01:40:45.925	last_200_bars EURJPY,M1: new bar
+0	01:40:50.997	last_200_bars EURJPY,M1: new bar
+0	01:40:56.042	last_200_bars EURJPY,M1: new bar
+0	01:41:01.082	last_200_bars EURJPY,M1: new bar
+0	01:41:06.130	last_200_bars EURJPY,M1: new bar
+0	01:41:11.181	last_200_bars EURJPY,M1: new bar
+0	01:41:16.683	last_200_bars EURJPY,M1: new bar
+0	01:41:21.733	last_200_bars EURJPY,M1: new bar
+0	01:41:26.837	last_200_bars EURJPY,M1: new bar
+0	01:41:32.212	last_200_bars EURJPY,M1: new bar
+0	01:41:37.384	last_200_bars EURJPY,M1: new bar
+0	01:41:42.559	last_200_bars EURJPY,M1: new bar
+0	01:41:47.711	last_200_bars EURJPY,M1: new bar
+0	01:41:53.163	last_200_bars EURJPY,M1: new bar
+0	01:41:58.632	last_200_bars EURJPY,M1: new bar
+0	01:42:04.101	last_200_bars EURJPY,M1: new bar
+0	01:42:09.569	last_200_bars EURJPY,M1: new bar
+0	01:42:15.038	last_200_bars EURJPY,M1: new bar
+0	01:42:20.508	last_200_bars EURJPY,M1: new bar
+0	01:42:25.971	last_200_bars EURJPY,M1: new bar
+0	01:42:31.112	last_200_bars EURJPY,M1: new bar
+0	01:42:31.112	last_200_bars EURJPY,M1: uninit reason 2
+0	01:42:31.112	Expert last_200_bars EURJPY,M1: removed
+0	01:42:31.128	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:42:31.174	last_200_bars EURJPY,M1: initialized
+0	01:42:36.721	last_200_bars EURJPY,M1: new bar
+0	01:42:42.191	last_200_bars EURJPY,M1: new bar
+0	01:42:47.659	last_200_bars EURJPY,M1: new bar
+0	01:42:53.128	last_200_bars EURJPY,M1: new bar
+0	01:42:58.597	last_200_bars EURJPY,M1: new bar
+0	01:43:04.066	last_200_bars EURJPY,M1: new bar
+0	01:43:09.535	last_200_bars EURJPY,M1: new bar
+0	01:43:14.348	last_200_bars EURJPY,M1: new bar
+0	01:43:14.348	last_200_bars EURJPY,M1: uninit reason 2
+0	01:43:14.348	Expert last_200_bars EURJPY,M1: removed
+0	01:43:14.363	Expert last_200_bars EURJPY,M1: loaded successfully
+0	01:43:14.410	last_200_bars EURJPY,M1: initialized
+0	01:43:20.801	last_200_bars EURJPY,M1: new bar
+0	01:43:26.270	last_200_bars EURJPY,M1: new bar
+0	01:43:31.739	last_200_bars EURJPY,M1: new bar
+0	01:43:32.833	last_200_bars EURJPY,M1: new bar
+0	01:43:32.833	last_200_bars EURJPY,M1: uninit reason 4
+0	01:43:32.848	Expert last_200_bars EURJPY,M1: removed
